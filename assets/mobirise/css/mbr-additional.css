@@ -492,9 +492,6 @@ h6,
   color: #553982;
   text-align: center;
 }
-#features1-d .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #2e2e2e;
-}
 #form1-h .form-control-label {
   color: #232323;
 }
