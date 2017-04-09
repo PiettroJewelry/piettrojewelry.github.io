@@ -425,7 +425,7 @@
           "title1": "Trio Ring",
           "subtitle1": "",
           "caption1": "Product Details<br>Trio Ring<br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://business.facebook.com/commerce/products/1254764037963899/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://facebook.com/commerce/products/1477927595611156/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/cc124-600x450.jpg",
@@ -441,7 +441,7 @@
           "title2": "FLOWER RING",
           "subtitle2": "",
           "caption2": "Product Details<br>FLOWER WOMEN FASHION RING<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://business.facebook.com/commerce/products/1403153029722779/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://facebook.com/commerce/products/1590526394308419/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/cc7-600x480.png",
@@ -457,7 +457,7 @@
           "title3": "3D Design",
           "subtitle3": "Jewelry CAD CAM Service",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://facebook.com/commerce/products/1403153029722779/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "media4": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
