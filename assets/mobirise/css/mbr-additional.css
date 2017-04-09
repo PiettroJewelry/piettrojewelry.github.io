@@ -495,18 +495,6 @@ h6,
 #features1-d .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #2e2e2e;
 }
-#pricing-table1-a .mbr-section__container .mbr-section-title {
-  color: #fff;
-}
-#pricing-table1-a .mbr-section__container .mbr-section-subtitle {
-  color: #a0a0a0;
-}
-#testimonials3-f .mbr-section-title {
-  color: #efefef;
-}
-#testimonials3-f .mbr-author-name {
-  color: #ccc;
-}
 #form1-h .form-control-label {
   color: #232323;
 }
@@ -514,29 +502,6 @@ h6,
   color: #fff;
 }
 #form2-i .mbr-section-subtitle {
-  color: #a0a0a0;
-}
-#pricing-table2-j .mbr-plan-header,
-#pricing-table2-j .mbr-plan-body {
-  background-color: #f4f4f4;
-}
-#pricing-table2-j ul,
-#pricing-table2-j .mbr-plan-title,
-#pricing-table2-j .mbr-price-value,
-#pricing-table2-j .mbr-price-figure,
-#pricing-table2-j .mbr-price-term {
-  color: #28262b;
-}
-#pricing-table2-j .mbr-plan {
-  border-color: #e8e8e8;
-}
-#pricing-table2-j .mbr-plan .list-group-item {
-  border-color: #cfcfcf;
-}
-#pricing-table1-k .mbr-section__container .mbr-section-title {
-  color: #fff;
-}
-#pricing-table1-k .mbr-section__container .mbr-section-subtitle {
   color: #a0a0a0;
 }
 #menu-p .hide-buttons .nav-btn {
