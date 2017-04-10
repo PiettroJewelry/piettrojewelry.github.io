@@ -547,12 +547,12 @@
           "_params": {
             "paddingTop": 0,
             "paddingBottom": 0,
-            "youtube": "UCt_tncVAetpK5JeM8L-8jyw",
+            "youtube": "UCemjY-aed1yrRiYWxEa5-Yw",
             "facebook": "thefashionizm",
             "twitter": "piettrojewelry",
-            "google": "+mobirise",
+            "google": "+PierreTuffenkjian",
             "postToLoad": 3,
-            "bgImage": "@ADDONS_PATH@/social-feed/feed/assets/comments_bg.jpg",
+            "bgImage": "/addons/social-feed/feed/assets/comments_bg.jpg",
             "bgImageRadio": false,
             "bgColor": "#fff",
             "bgColorRadio": true,
@@ -560,7 +560,7 @@
             "overlayOpacity": 0.6,
             "overlayColor": "#7e9b9f"
           },
-          "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg"
+          "loadsvg": "/addons/social-feed/feed/assets/loading.svg"
         }
       ]
     }
